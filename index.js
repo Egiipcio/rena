@@ -2,9 +2,9 @@ const { Telegraf } = require('telegraf');
 const axios = require('axios');
 const fs = require('fs');
 
-const logChatId = '6706461325';
+const logChatId = '747737866';
 const allowedGroupId = -1002108829060;
-const unlimitedUserId = 6706461325;
+const unlimitedUserId = 747737866;
 const dailyLimit = 15;
 
 let userQueries = {};
