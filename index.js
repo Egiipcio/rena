@@ -269,7 +269,7 @@ function buscarNombre(ctx) {
     });
 }
 
-const bot = new Telegraf('6570754843:AAE2qqsZCp5sEQ3iHygzhHdncOokcB4T8bU');
+const bot = new Telegraf('6779670023:AAHtRjSGTrnQKO8mSpeHUi9meJ058zfb9cQ');
 bot.start(ctx => ctx.reply('Bienvenido al bot de consultas.'));
 bot.command('menu', menu);
 bot.command('ban', ban);
