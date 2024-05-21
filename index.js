@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 const logChatId = '747737866';
-const allowedGroupId = -1002108829060;
+const allowedGroupId = -4215647268;
 const unlimitedUserId = 747737866;
 const dailyLimit = 15;
 
